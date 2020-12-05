@@ -1,0 +1,4 @@
+name: QuestLib
+version: ${project.version}
+main: info.ahaha.questlib.QuestLib
+api-version: 1.16
